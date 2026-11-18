@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your research, please cite it using the information provided here."
+type: dataset
+title: "OTA Calibration Dataset for UMa Channel Modeling"
+authors:
+  - family-names: "Shi"
+    given-names: "Panpan"
+  - family-names: "Wang"
+    given-names: "Yang"
+  - family-names: "Liao"
+    given-names: "Xi"
+  - family-names: "Hu"
+    given-names: "Tao"
+  - family-names: "Zhang"
+    given-names: "Jie"
+url: "https://github.com/PanpanShi-cmd/OTA-Calibration-Dataset-for-UMa-Channel-Modeling"
